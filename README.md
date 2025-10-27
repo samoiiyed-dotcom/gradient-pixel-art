@@ -1,1 +1,0 @@
-# gradient-pixel-art
